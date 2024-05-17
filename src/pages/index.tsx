@@ -17,7 +17,7 @@ const IndexPage: React.FC = () => {
       {isLoggedIn ? (
         <ViewerPage />
       ) : (
-        <LoginPage onLogin={handleLogin} />
+        <LoginPage  />
       )}
     </div>
   );
