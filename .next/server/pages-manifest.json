@@ -2,7 +2,11 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+<<<<<<< HEAD
   "/": "pages/index.js",
   "/api/getData": "pages/api/getData.js",
   "/viewer": "pages/viewer.js"
+=======
+  "/": "pages/index.js"
+>>>>>>> 175abccd57f2a679ed3dd3de0f2d30cba5f6e142
 }

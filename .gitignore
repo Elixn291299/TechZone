@@ -4,4 +4,9 @@ node_modules
 /build
 /dist
 /public/build
+<<<<<<< HEAD
 /.mf
+=======
+/.mf
+.shopify
+>>>>>>> 175abccd57f2a679ed3dd3de0f2d30cba5f6e142
